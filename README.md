@@ -3,4 +3,4 @@ Repository where I store the function developed while solving Python challenges 
 
 #Repo structure
 
-The Kata usually consists on writing functions. You will see in this repo a Python file called kata which contains all the Kata that I have successfully passed
+The Kata usually consist on writing functions. You will see in this repo a Python file called kata which contains all the Kata that I have successfully passed
